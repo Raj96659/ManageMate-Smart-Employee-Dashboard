@@ -33,6 +33,6 @@
 <li>Database.py – MySQL connection and queries</li>
 
 <h3>Future Ideas</h3>
-<ol>Add export to CSV</ol>
-<ol>Create multiple user accounts</ol>
-<ol>Add filters & sorting in the table</ol>
+<li>Add export to CSV</li>
+<li>Create multiple user accounts</li>
+<li>Add filters & sorting in the table</li>
