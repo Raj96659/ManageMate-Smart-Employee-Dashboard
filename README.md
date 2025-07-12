@@ -19,12 +19,12 @@
 <li>PIL (for images)</li>
 
 <h3>How to Run</h3>
-<ol>Install required libraries:</ol>
-<l>pip install customtkinter</l>
-<l>pip install pillow</l>
-<l>pip install pymysql</l>
-<ol>Start MySQL Server</ol>
-<ol>Run the app:</ol>
+<li>1. Install required libraries:</li>
+<li>pip install customtkinter</li>
+<li>pip install pillow</li>
+<li>pip install pymysql</li>
+<li>2. Start MySQL Server</li>
+<li>3. Run the app:</li>
 <li>python login.py</li>
 
 <h3> Files in Project</h3>
